@@ -3,7 +3,7 @@ class Reader:
         self.name = name
 
     def notify(self, magazine, reason):
-        print("Dear " + self.name + " , there is a " + reason + " edition from " + magazine + " has been published");
+        print("Dear " + self.name + " , there is a " + reason + " edition from " + magazine + " has been published")
 
 
 class Magazine:

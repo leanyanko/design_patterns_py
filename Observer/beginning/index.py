@@ -21,10 +21,10 @@ class Publisher:
 arctechnica = Magazine('Arc Technica');
 newYorker = Magazine('New Yorker');
 
-jane = Reader('Jane');
-phoebe = Reader('Phoebe');
-eve = Reader('Eve');
-lily = Reader('Lily');
-pam = Reader('Pam');
+jane = Reader('Jane')
+phoebe = Reader('Phoebe')
+eve = Reader('Eve')
+lily = Reader('Lily')
+pam = Reader('Pam')
 
 condeNast = Publisher('Conde Nast');
